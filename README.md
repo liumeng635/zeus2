@@ -1,4 +1,4 @@
-Zeus维护者：<a href="mailto:yangf.sky@gmail.com">杨飞</a>  
+Zeus维护者：<a href="mailto:635891879@qq.com">刘猛</a>  
 
 ##宙斯(zeus)是什么
 宙斯是一个完整的Hadoop的作业平台  
@@ -10,7 +10,4 @@ Hadoop MapReduce任务的调试运行
 Hive任务的调试运行  
 Shell任务的运行    
 Hive元数据的可视化查询与数据预览  
-Hadoop任务的自动调度  
-
-
-QQ交流群：336733312  
+Hadoop任务的自动调度
